@@ -7,9 +7,16 @@ Run each file on Mac terminal directly. The process takes less than 5 minutes fo
 
 ## Before Running
 1. Download photos from Google Takeout. You will have something like this:
+
+
 ![Enter image description here](https://github.com/zhaotianjing/GoogleTakeOutCleaner/blob/main/fig1.png)
+
+
 2. Unzip them and rename the folders to "Takeout 1", "Takeout 2", "Takeout 3", etc.:
+
+
 ![Enter image description here](https://github.com/zhaotianjing/GoogleTakeOutCleaner/blob/main/fig2.png)
+   
    
    Inside each folder is a single folder named "Google Photos", which contains folders named "Photos from YEAR" (e.g., "Photos from 2017", "Photos from 2023"). 
 
