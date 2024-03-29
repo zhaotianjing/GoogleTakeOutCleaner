@@ -1,6 +1,6 @@
 
 # GoogleTakeOutCleaner
-Organize photos from Google Takeout by: (1) combining all photos together by each year and (2) renaming photos with the photo taken date.
+Organize photos from Google Takeout by: (1) combining all photos together by each year and (2) renaming photos with the photo taken date. Code is written by GPT4, then tested and modified by me.
 
 ## Running Time
 Run each file on Mac terminal directly. The process takes less than 5 minutes for 60GB of photos.
